@@ -1,0 +1,31 @@
+Question Number,Question Text,Option 1,Option 2,Option 3,Option 4,Answer,Complement,Elo Rating
+1,What is the capital of France? (Hint: Starts with 'P'),Berlin,Madrid,Paris,Rome,Paris,Great job!,800
+2,What is 5 + 5? (Hint: Two fives),8,9,10,11,10,You're on fire!,800
+3,Which planet is known as the Red Planet? (Hint: Starts with 'M'),Earth,Venus,Mars,Jupiter,Mars,Well done!,800
+4,Who wrote 'Romeo and Juliet'? (Hint: Famous English playwright),Shakespeare,Dickens,Hemingway,Austen,Shakespeare,Nice work!,900
+5,What is the largest ocean on Earth? (Hint: Starts with 'P'),Atlantic,Indian,Arctic,Pacific,Pacific,Correct!,900
+6,How many continents are there? (Hint: More than 5),5,6,7,8,7,You're doing great!,900
+7,Which element has the chemical symbol 'O'? (Hint: We breathe it),Oxygen,Hydrogen,Nitrogen,Helium,Oxygen,Good thinking!,1000
+8,What is the square root of 64? (Hint: Even number),6,7,8,9,8,Sharp mind!,1000
+9,What year did the Titanic sink? (Hint: Early 1900s),1905,1912,1920,1931,1912,You're a history buff!,1000
+10,Who painted the Mona Lisa? (Hint: Famous Italian artist),Van Gogh,Michelangelo,Da Vinci,Picasso,Da Vinci,Impressive!,1100
+11,Which gas makes soda fizzy? (Hint: CO2),Oxygen,Nitrogen,Carbon Dioxide,Helium,Carbon Dioxide,Nice guess!,1100
+12,Which country gifted the Statue of Liberty to the USA? (Hint: European),Italy,France,Germany,Spain,France,You're smart!,1100
+13,What is the largest mammal? (Hint: Lives in the ocean),Elephant,Hippo,Blue Whale,Shark,Blue Whale,Excellent!,1200
+14,How many legs does a spider have? (Hint: More than 6),4,6,8,10,8,Well played!,1200
+15,Who discovered gravity? (Hint: Apple),Einstein,Newton,Galileo,Tesla,Isaac Newton,Science genius!,1200
+16,What is the hardest natural substance on Earth? (Hint: Found in rings),Gold,Iron,Diamond,Quartz,Diamond,You're brilliant!,1300
+17,What does 'WWW' stand for in a website browser? (Hint: Internet),World Wide Web,Wireless Web,Wide Web Window,Web World,World Wide Web,Nice one!,1300
+18,What is the largest desert in the world? (Hint: Not Sahara),Sahara,Gobi,Antarctica,Atacama,Antarctica,Well reasoned!,1300
+19,Which planet has the most moons? (Hint: Gas giant),Mars,Earth,Saturn,Jupiter,Saturn,Good guess!,1400
+20,Who invented the lightbulb? (Hint: Last name 'E'),Newton,Edison,Tesla,Franklin,Thomas Edison,Keep it up!,1400
+21,What is the smallest country in the world? (Hint: Religious),Vatican City,Monaco,Malta,San Marino,Vatican City,You're amazing!,1400
+22,What is the national flower of Japan? (Hint: Pink petals),Lotus,Rose,Cherry Blossom,Orchid,Cherry Blossom,Nice work!,1500
+23,How many bones are in the human body? (Hint: Over 200),200,206,220,240,206,Excellent!,1500
+24,What is the most spoken language in the world? (Hint: Asian language),English,Spanish,Hindi,Mandarin,Mandarin,You're a linguist!,1500
+25,Who developed the theory of relativity? (Hint: 'E=mc²'),Newton,Galileo,Einstein,Bohr,Albert Einstein,Brilliant!,1600
+26,What is the closest star to Earth? (Hint: Daytime),Proxima Centauri,The Sun,Sirius,Betelgeuse,The Sun,You're a space expert!,1600
+27,Which metal is liquid at room temperature? (Hint: Starts with 'M'),Mercury,Iron,Silver,Lead,Mercury,Smart answer!,1600
+28,What is the currency of Japan? (Hint: Starts with 'Y'),Yuan,Yen,Rupee,Won,Yen,You're knowledgeable!,1700
+29,Who was the first person to walk on the moon? (Hint: 1969),Buzz Aldrin,Neil Armstrong,Yuri Gagarin,John Glenn,Neil Armstrong,A true historian!,1700
+30,What is the chemical formula for water? (Hint: H and O),H2O,CO2,O2,NH3,H2O,You're correct!,1700

@@ -1,0 +1,31 @@
+Question Number,Question Text,Answer,Complement,Elo Rating
+1,Which country won the FIFA World Cup in 2018? (Hint: They defeated Croatia in the final),France,Great job!,800
+2,What is the national sport of Japan? (Hint: It has a history spanning centuries),Sumo Wrestling,Well done!,800
+3,Which player has won the most NBA championships? (Hint: He won 11 titles with the Boston Celtics),Bill Russell,Excellent!,800
+4,Which country hosted the 2008 Summer Olympics? (Hint: The events were primarily held in Beijing),China,Correct!,900
+5,What is the highest possible break in snooker? (Hint: This is achieved by potting all reds with blacks followed by all colors),147,Great answer!,900
+6,Who is the only athlete to win Olympic gold medals in both 100m and 200m in three consecutive Olympics? (Hint: He accomplished this in 2008, 2012, and 2016),Usain Bolt,Well played!,900
+7,What is the regulation length of a soccer match? (Hint: It is divided into two 45-minute halves),90 minutes,Nice work!,1000
+8,Which country has won the most Cricket World Cups? (Hint: They have won multiple titles across decades),Australia,You got it!,1000
+9,Who holds the record for the most goals scored in a single Premier League season? (Hint: He scored 36 goals in the 2022-23 season),Erling Haaland,Spot on!,1000
+10,Which sport uses the term "love" for a score of zero? (Hint: It is used in both men's and women's matches),Tennis,Good job!,1100
+11,Which city hosted the first modern Olympic Games in 1896? (Hint: It's the capital of Greece),Athens,Fantastic!,1100
+12,What is the diameter of a basketball hoop in inches? (Hint: It’s between 17 and 19 inches),18 inches,Excellent!,1100
+13,Who is known as the "King of Clay" in tennis? (Hint: He has won the most French Open titles),Rafael Nadal,Well done!,1200
+14,Which NFL team has won the most Super Bowls? (Hint: They are tied with the Patriots at 6 wins each),Pittsburgh Steelers,Great!,1200
+15,Which Formula 1 driver has won the most World Championships? (Hint: He has 7 titles, tied with Michael Schumacher),Lewis Hamilton,Brilliant!,1200
+16,What is the official name of the sport known as Ping Pong? (Hint: It is played with small paddles and a light ball),Table Tennis,Correct!,1300
+17,What is the maximum score possible in a single game of bowling? (Hint: It requires a perfect game),300,Nice!,1300
+18,Which country is famous for originating the sport of rugby? (Hint: It shares a name with an English county),England,Good job!,1300
+19,What is the name of the championship trophy awarded in the NHL? (Hint: It’s named after Lord Stanley),Stanley Cup,Well played!,1400
+20,What is the length of a marathon race in miles? (Hint: It's slightly over 26 miles),26.2 miles,Awesome!,1400
+21,Which athlete has won the most Olympic medals in history? (Hint: He is a legendary swimmer),Michael Phelps,Excellent!,1400
+22,Which soccer player is known as "The Atomic Flea"? (Hint: He played for FC Barcelona and Argentina),Lionel Messi,Fantastic!,1500
+23,What is the only sport played on the moon? (Hint: It was played during the Apollo 14 mission),Golf,Correct!,1500
+24,Which team won the first-ever FIFA World Cup in 1930? (Hint: The tournament was hosted in South America),Uruguay,Brilliant!,1500
+25,In baseball, how many strikes result in an out? (Hint: It’s less than 4),Three,Spot on!,1600
+26,Which famous boxer was known as "The Greatest"? (Hint: He floated like a butterfly and stung like a bee),Muhammad Ali,Great job!,1600
+27,What is the term for three consecutive strikes in bowling? (Hint: It's named after a bird),Turkey,Well done!,1600
+28,Which country has won the most gold medals in the Summer Olympics? (Hint: It’s home to the Statue of Liberty),USA,Nice work!,1700
+29,Who was the first female gymnast to score a perfect 10 at the Olympics? (Hint: She achieved this in 1976),Nadia Comaneci,Excellent!,1700
+30,Which sport is played at Wimbledon? (Hint: It is played on grass courts),Tennis,Good job!,1700
